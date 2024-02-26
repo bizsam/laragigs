@@ -22,7 +22,7 @@
         },
       }
   </script>
-  <title>LaraGigs | Find Laravel Jobs & Projects</title>
+  <title>SBLC Network | Find Issuers Clients Monetizers Agents</title>
 </head>
 
 <body class="mb-48">
